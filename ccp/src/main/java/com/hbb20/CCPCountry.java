@@ -593,8 +593,6 @@ public class CCPCountry implements Comparable<CCPCountry> {
                 return R.drawable.flag_indonesia;
             case "ie": //ireland
                 return R.drawable.flag_ireland;
-            case "il": //israel
-                return R.drawable.flag_israel;
             case "im": //isle of man
                 return R.drawable.flag_isleof_man; // custom
             case "is": //Iceland
@@ -1102,8 +1100,6 @@ public class CCPCountry implements Comparable<CCPCountry> {
                 return "🇮🇩";
             case "ie":
                 return "🇮🇪";
-            case "il":
-                return "🇮🇱";
             case "im":
                 return "🇮🇲";
             case "in":
@@ -1514,7 +1510,6 @@ public class CCPCountry implements Comparable<CCPCountry> {
         countries.add(new CCPCountry("hu", "36", "Hungary", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("id", "62", "Indonesia", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("ie", "353", "Ireland", DEFAULT_FLAG_RES));
-        countries.add(new CCPCountry("il", "972", "Israel", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("im", "44", "Isle Of Man", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("is", "354", "Iceland", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("in", "91", "India", DEFAULT_FLAG_RES));

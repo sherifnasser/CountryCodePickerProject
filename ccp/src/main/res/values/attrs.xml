@@ -91,7 +91,6 @@
             <enum name="GERMAN" value="11" />
             <enum name="GREEK" value="12" />
             <enum name="GUJARATI" value="13" />
-            <enum name="HEBREW" value="14" />
             <enum name="HINDI" value="15" />
             <enum name="INDONESIA" value="16" />
             <enum name="ITALIAN" value="17" />

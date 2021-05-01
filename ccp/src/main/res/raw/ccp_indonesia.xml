@@ -493,11 +493,6 @@
             name_code="ie"
             phone_code="353" />
         <country
-            name="Israel"
-            english_name="Israel"
-            name_code="il"
-            phone_code="972" />
-        <country
             name="Isle of Man"
             english_name="Isle Of Man"
             name_code="im"

@@ -494,11 +494,6 @@
             phone_code="353" />
         <country
             name="TODO: replace with  translated country name"
-            english_name="Israel"
-            name_code="il"
-            phone_code="972" />
-        <country
-            name="TODO: replace with  translated country name"
             english_name="Isle Of Man"
             name_code="im"
             phone_code="44" />
